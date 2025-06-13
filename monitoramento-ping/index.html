@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Status dos Hosts</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #f9f9f9; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background-color: #333; color: white; }
+    .online { color: green; font-weight: bold; }
+    .offline { color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Status dos Hosts</h1>
+  <table id="statusTable">
+    <thead>
+      <tr>
+        <th>Nome</th>
+        <th>IP</th>
+        <th>Status</th>
+        <th>Tempo (ms)</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Conteúdo preenchido pelo script.js -->
+    </tbody>
+  </table>
+
+  <!-- Importa o script externo -->
+  <script src="scriptPing.js"></script>
+</body>
+</html>

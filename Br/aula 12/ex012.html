@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Olá</p>
+    <div id="horas"></div>
+    <div id="saudacao"></div>
+    <script>
+        let agora = new Date()
+        let horas = agora.getHours()
+        let mostrarHora = document.getElementById('horas')
+        mostrarHora.innerHTML = `Agora são ${horas}h`
+        let mostrarSaudacao = document.getElementById('saudacao')
+        if (horas > 0 && horas <6){
+            mostrarSaudacao.innerHTML = "Boa Madrugada!"
+        } else if (horas < 12) {
+            mostrarSaudacao.innerHTML = "Bom dia!"
+        } else if (horas < 18){
+            mostrarSaudacao.innerHTML = "Boa tarde!"
+        } else {
+            mostrarSaudacao.innerHTML = "Boa noite!"
+        }
+    </script>
+    
+</body>
+</html>

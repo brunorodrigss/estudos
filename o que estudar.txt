@@ -1,0 +1,43 @@
+html 5 e css
+
+
+functions
+	arrow functions
+	call backs
+	funções anônimas
+	iife
+	java script funcional
+
+objetos
+	
+modularização
+	códigos separados / arquivos separados
+	reutilização de código
+
+RegEx
+	Expressões regulares
+	validação de dados
+
+JSON
+
+AJAX
+
+NodeJS
+
+27 03 as 20h
+
+
+curso de logica - Curso em vídeo
+
+https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo
+
+curso logica de programação - Dev aprender
+
+https://youtu.be/iF2MdbrTiBM?si=jc8XylhFOxxPsyDH
+	
+curso de git e GitHub - Tiago matos
+
+curso protocolos - Nic Br
+
+https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PLk5G8sJqhL_lNcPdhzVUBb_frxI5jnf7G&ab_channel=NICbrvideos
+	

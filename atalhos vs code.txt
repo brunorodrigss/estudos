@@ -1,0 +1,25 @@
+atalhos vs code
+
+
+ctr + shift + k => apaga a linha
+
+alt + click => seleção múltipla para  editar ao mesmo tempo
+
+ctr + d em um palavra => a cada "d" ele seleciona a próxima ocorrência da palavra para editar ao mesmo tempo
+
+shift + alt + seta baixo ou cima => duplica a linha no sentido selecionado 
+
+alt + seta baixo ou cima => move a linha selecionada no sentido selecionado
+
+ctr + L seleciona um linha inteira
+
+ctr + ; comenta as linhas selecionadas
+
+
+
+
+
+
+
+
+
